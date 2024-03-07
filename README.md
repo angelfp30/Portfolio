@@ -1,0 +1,1 @@
+This web Portfolio has been made to showcase my projects and professional profile, it's based on the template made by @midudev with Astro, in this case, this project was made with pure HTML and CSS, this repo and website are gonna be uploaded constantly (to add job experience, projects, or update some parts of it like the skills section)
